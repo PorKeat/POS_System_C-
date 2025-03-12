@@ -11,6 +11,9 @@ namespace POS_Products
 {
     class MyData
     {
+        // Global variable to store the orders
+        public static HashSet<ProductControl> Orders { get; set; }
+            = new HashSet<ProductControl>();
         internal static void LoadProducts(TableLayoutPanel tableLayoutPanel)
         {
             string[] files = Directory.GetFiles("D:\\SETEC\\C#_II\\POS_Products\\Image");

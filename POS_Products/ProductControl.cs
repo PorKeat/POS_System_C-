@@ -12,6 +12,7 @@ namespace POS_Products
 {
     public partial class ProductControl : UserControl
     {
+        
         public ProductControl()
         {
             InitializeComponent();
@@ -58,6 +59,8 @@ namespace POS_Products
             Qty++;
             btnCancel.Visible = true;
             btnBuy.Text = $"Buy ({Qty})";
+
+            MyData.Orders.Add(this);
         }
 
         private void picture_Click(object sender, EventArgs e)
@@ -72,6 +75,7 @@ namespace POS_Products
             {
                 btnCancel.Visible = false;
                 btnBuy.Text = "Buy";
+                MyData.Orders.Remove(this);
             }
             else
             {
