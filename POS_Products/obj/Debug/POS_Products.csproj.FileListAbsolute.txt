@@ -1,0 +1,11 @@
+D:\SETEC\C#_II\POS_Products\POS_Products\bin\Debug\POS_Products.exe.config
+D:\SETEC\C#_II\POS_Products\POS_Products\bin\Debug\POS_Products.exe
+D:\SETEC\C#_II\POS_Products\POS_Products\bin\Debug\POS_Products.pdb
+D:\SETEC\C#_II\POS_Products\POS_Products\obj\Debug\POS_Products.csproj.AssemblyReference.cache
+D:\SETEC\C#_II\POS_Products\POS_Products\obj\Debug\POS_Products.MainProducts.resources
+D:\SETEC\C#_II\POS_Products\POS_Products\obj\Debug\POS_Products.ProductControl.resources
+D:\SETEC\C#_II\POS_Products\POS_Products\obj\Debug\POS_Products.Properties.Resources.resources
+D:\SETEC\C#_II\POS_Products\POS_Products\obj\Debug\POS_Products.csproj.GenerateResource.cache
+D:\SETEC\C#_II\POS_Products\POS_Products\obj\Debug\POS_Products.csproj.CoreCompileInputs.cache
+D:\SETEC\C#_II\POS_Products\POS_Products\obj\Debug\POS_Products.exe
+D:\SETEC\C#_II\POS_Products\POS_Products\obj\Debug\POS_Products.pdb
